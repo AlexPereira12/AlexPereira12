@@ -16,6 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <a href="https://www.boasafrasementes.com.br/" target="_blank">
-  <img src="./src/logo-boa-safra (1).svg" height="50" alt="java logo" />
+  
+
+  
