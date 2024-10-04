@@ -11,11 +11,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   
 
-  
+ <table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/u6GMSJow8vsAAAAi/pasalapava-soja.gif" alt="Pasalapava Soja GIF" width="300"/>
+    </td>
+    <td>
+      <h2>Git - Boa Safra</h2>
+      <p>
+        O <strong>repositório</strong> onde você mais vai passar raiva,
+      </p>
+      <p>
+        Foco em projetos de inovação, ML e testes de desenvolvimento
+      </p>
+    </td>
+  </tr>
+</table>
